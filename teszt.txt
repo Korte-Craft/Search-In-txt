@@ -1,0 +1,6 @@
+Ez egy példa szövegfájl.
+Ebben a fájlban keresünk egy kulcsszót.
+A kulcsszó lehet bármi, de most az a célunk, hogy megtaláljuk a "Python" szót.
+Ez a mondat nem tartalmaz kulcsszót.
+Ez sem.
+De a következő sorban már megtalálható: Python egy nagyszerű programozási nyelv.
